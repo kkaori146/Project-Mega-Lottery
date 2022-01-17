@@ -1,11 +1,21 @@
 #MEGA LOTTERY
 
 ## General Info
-_____________________________________________________
-- The app generates numbers 
+
 - The app generates random numbers for the lottery
-_____________________________________________________
+
 ## Language
-____________________________________________________
+
 - Language : Python
-_____________________________________________________
+
+## Imports
+
+- from random import randint
+- from time import sleep
+- from colorama import Fore, Back, Style
+- from emoji import emojize
+
+## Emoji
+
+https://www.webfx.com/tools/emoji-cheat-sheet/
+
